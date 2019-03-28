@@ -14,7 +14,6 @@
 ![be](https://raw.githubusercontent.com/boychongzen18/Inject-All-Operator/master/9.png)
 ![be](https://raw.githubusercontent.com/boychongzen18/Inject-All-Operator/master/10.png)
 ![be](https://raw.githubusercontent.com/boychongzen18/Inject-All-Operator/master/11.png)
-![be](https://raw.githubusercontent.com/boychongzen18/Inject-All-Operator/master/12.png)
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
