@@ -11,16 +11,16 @@ class Info:
         if self.get.lower() == 'heap':
             return '0x8000-0x1000000'
         if self.get.lower() == 'name':
-            return 'simpleserver'
+            return 'Psiphon All Version'
         if self.get.lower() == 'about':
-            return 'linux version'
+            return 'linux all version'
         if self.get.lower() == 'ver':
-            return '1.0.0b'
+            return 'v.2'
         if self.get.lower() == 'date':
-            return '07-09-2014'
+            return '24-06-2019'
         if self.get.lower() == 'by':
             return 'inunxlabs'
         if self.get.lower() == 'mail':
             return 'inunxlabs@gmail.com'
         if self.get.lower() == 'remode':
-            return 'Sane4tsu'
+            return 'Boychongzen aka Xroot'
