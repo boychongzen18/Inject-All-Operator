@@ -1,0 +1,30 @@
+LHOST = "127.0.0.1"		#listen host  ( isi dengan localhost sama kyak Psiphon )
+LPORT = 8080        	#listen port ( isi dengan port sama kyak Psiphon )
+FQUERY = ""         	#front query
+MQUERY = ""         	#middle query
+BQUERY = ""         	#back query
+RQUERY = ""         	#reverse query
+CQUERY = ""         	#replace query
+IQUERY = ""         	#inject query
+IMETHOD = 0         	#inject method  (options => [0 = HEAD], [1 = GET], [2 = POST], [3 = DELETE], [4 = CONNECT], [5 = OPTIONS], [6 = TRACE], [7 = PUT])
+ILINE = 0           	#inject newline  (options => [0 = \r\n], [1 = \n])
+ISPLIT = 0          	#inject splitter  (options => [0 = Default], [1 = newline x1], [2 = newline x2], [3 = newline x3], [4 = newline x4], [5 = newline x5])
+RPORT = 0           	#remove port  (options => [0 = No], [1 = Yes])
+RPATH = 0           	#remove path  (options => [0 = No], [1 = Yes])
+ADMODE = 0          	#advanced mode  (options => [0 = No], [1 = Yes])
+CUSHDR0 = ""        	#custom header
+VALHDR0 = ""        	#value header  (isi dengan bug host)
+CUSHDR1 = ""        	#custom header
+VALHDR1 = ""        	#value header
+CUSHDR2 = ""        	#custom header
+VALHDR2 = ""        	#value header
+CUSHDR3 = ""        	#custom header
+VALHDR3 = ""        	#value header
+KEEP = ""           	#keep server
+RHTTP = 0           	#HTTP version  (options => [0 = Default], [1 = HTTP/1.0], [2 = HTTP/1.1])
+RHTTPS = 1          	#HTTPS enable  (options => [0 = No], [1 = Yes])
+SBUFF = 1024        	#server buffer
+TIMEOUT = 60        	#timeout
+PHOST = ""          	#proxy host ( isi dengan host )
+PPORT = 0           	#proxy port ( isi dengan port )
+PTYPE = 0           	#tunnel enable  (options => [0 = No], [1 = Yes])
