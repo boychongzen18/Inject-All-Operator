@@ -28,3 +28,11 @@ TIMEOUT = 60        	#timeout
 PHOST = ""          	#proxy host (isi dengan host)
 PPORT = 0           	#proxy port (isi dengan port)
 PTYPE = 0           	#tunnel enable  (options => [0 = No], [1 = Yes])
+
+
+NB : KALAU MAU PAKAI BUG SESUAIKAN HOST & PORT
+     KALAU GAK PAKAI BUG KOSONGIN AJA HOST & PORT
+     
+     SEKIAN TERIMA GAJI
+     
+     Regard Boychongzen aka Xroot
