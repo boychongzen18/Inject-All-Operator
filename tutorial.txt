@@ -1,4 +1,4 @@
-LHOST = "127.0.0.1"      #listen host  (isi dengan localhost sama kyak Psiphon)
+LHOST = "127.0.0.1"     #listen host  (isi dengan localhost sama kyak Psiphon)
 LPORT = 8080        	#listen port  (isi dengan port sama kyak Psiphon)
 FQUERY = ""         	#front query
 MQUERY = ""         	#middle query
