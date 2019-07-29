@@ -116,7 +116,7 @@ class Server:
         time.sleep(1)
         sys.stderr.write(self.config('Configuration'))
         time.sleep(2)
-        sys.stderr.write(self.log('========Siapkan Popon Laptop-Andoroid Agan======== \nTusbol Popon Bosku =>>'))
+        sys.stderr.write(self.log('<<======== Phreakers Team HFL ========>> \n Starting Popon Bosku ==>>'))
 
     def run(self):
         ServerHandler.LogWindow(True)
